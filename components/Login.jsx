@@ -24,7 +24,7 @@ export default function Login(){
         <TouchableOpacity style={styles.button}
        onPress={()=>router.push('auth/sign-in')}>
         <Text style={{color:Colors.WHITE,textAlign:'center'}}>
-          Get Started
+          Get Startedddd
         </Text>
       </TouchableOpacity>
       </View>
