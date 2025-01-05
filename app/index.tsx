@@ -12,7 +12,6 @@ export default function Index() {
     <View style={{flex:1}}>
       {user? <Redirect href={'/mytrip'}/>:<Login/>
       }
-      
     </View>
    
   );
