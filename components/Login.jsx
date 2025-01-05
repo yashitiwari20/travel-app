@@ -12,7 +12,7 @@ export default function Login(){
   /*for expo */
 
   return(
-    <View >
+    <View>
       <Image source={require('./../assets/images/main.jpg')} style={styles.image}/>
       <View style={styles.container}>
       <Text style={styles.imagetext}>
